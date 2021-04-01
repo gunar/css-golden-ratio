@@ -1,0 +1,9 @@
+{
+  "name": "css-golden-ratio",
+  "version": "1.0.0",
+  "description": "Font size, line height, and line width the golden ratio way.",
+  "main": "index.js",
+  "keywords": ["golden", "ratio", "css", "font", "size", "width", "height"],
+  "author": "Gunar Gessner <gunar@gunar.uk>",
+  "license": "MIT"
+}
